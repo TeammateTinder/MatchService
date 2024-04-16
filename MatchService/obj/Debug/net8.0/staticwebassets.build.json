@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "azlMRw46r4DUsAInhh1xRFMBTw+BkG0vDT0CB7u26uc=",
+  "Source": "MatchService",
+  "BasePath": "_content/MatchService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
