@@ -1,4 +1,3 @@
-using MatchServiceApp.Services;
 using Microsoft.AspNetCore.Mvc;
 using RabbitMQ.Client;
 using Xunit.Abstractions;
