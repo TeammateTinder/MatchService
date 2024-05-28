@@ -1,19 +1,67 @@
+using MatchServiceApp.Services;
+using Microsoft.AspNetCore.Mvc;
+using RabbitMQ.Client;
+using Xunit.Abstractions;
+
 namespace MatchServiceAppTests
 {
     public class MatchServiceTests
     {
-        [Fact]
-        public void EasyTest()
+        private readonly ITestOutputHelper _logger;
+
+        public MatchServiceTests(ITestOutputHelper logger)
         {
-            // Arrange
-            int a = 1;
-            int b = 2;
+            _logger = logger;
+
+        }
+
+        [Fact]
+        public void TestFormatMessageYes()
+        {
+
+        // Arrange
+        string? HostName = Environment.GetEnvironmentVariable("RABBITMQ_HOST");
+            if (string.IsNullOrEmpty(HostName))
+            {
+                HostName = "localhost";
+            }
+            ConnectionFactory factory = new ConnectionFactory() { HostName = HostName };
+            MatchService matchService = new MatchService(factory.CreateConnection());
+            int swiperID = 0;
+            int swipedID = 1;
+            YesOrNo yes = YesOrNo.y;
 
             // Act
-            int result = a + b;
+            string messageResult = matchService.FormatMessage(swiperID, swipedID, yes);
+            string expectedResult = $"{swiperID}:{swipedID}:{yes}";
 
             // Assert
-            Assert.Equal(3, result);
+            _logger.WriteLine($"Expected: {expectedResult}, Result: {messageResult}");
+            Assert.Equal(expectedResult, messageResult);
+        }
+
+        [Fact]
+        public void TestFormatMessageNo()
+        {
+            // Arrange
+            string? HostName = Environment.GetEnvironmentVariable("RABBITMQ_HOST");
+            if (string.IsNullOrEmpty(HostName))
+            {
+                HostName = "localhost";
+            }
+            ConnectionFactory factory = new ConnectionFactory() { HostName = HostName };
+            MatchService matchService = new MatchService(factory.CreateConnection());
+            int swiperID = 0;
+            int swipedID = 1;
+            YesOrNo no = YesOrNo.n;
+
+            // Act
+            string messageResult = matchService.FormatMessage(swiperID, swipedID, no);
+            string expectedResult = $"{swiperID}:{swipedID}:{no}";
+
+            // Assert
+            _logger.WriteLine($"Expected: {expectedResult}, Result: {messageResult}");
+            Assert.Equal(expectedResult, messageResult);
         }
     }
 }
