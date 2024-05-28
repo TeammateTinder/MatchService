@@ -1,5 +1,6 @@
 using MatchServiceApp.Services;
 using Microsoft.AspNetCore.Mvc;
+using Moq;
 using RabbitMQ.Client;
 using Xunit.Abstractions;
 
@@ -19,20 +20,13 @@ namespace MatchServiceAppTests
         public void TestFormatMessageYes()
         {
 
-        // Arrange
-        string? HostName = Environment.GetEnvironmentVariable("RABBITMQ_HOST");
-            if (string.IsNullOrEmpty(HostName))
-            {
-                HostName = "localhost";
-            }
-            ConnectionFactory factory = new ConnectionFactory() { HostName = HostName };
-            MatchService matchService = new MatchService(factory.CreateConnection());
+            // Arrange
             int swiperID = 0;
             int swipedID = 1;
             YesOrNo yes = YesOrNo.y;
 
             // Act
-            string messageResult = matchService.FormatMessage(swiperID, swipedID, yes);
+            string messageResult = MatchService.FormatMessage(swiperID, swipedID, yes);
             string expectedResult = $"{swiperID}:{swipedID}:{yes}";
 
             // Assert
@@ -44,19 +38,12 @@ namespace MatchServiceAppTests
         public void TestFormatMessageNo()
         {
             // Arrange
-            string? HostName = Environment.GetEnvironmentVariable("RABBITMQ_HOST");
-            if (string.IsNullOrEmpty(HostName))
-            {
-                HostName = "localhost";
-            }
-            ConnectionFactory factory = new ConnectionFactory() { HostName = HostName };
-            MatchService matchService = new MatchService(factory.CreateConnection());
             int swiperID = 0;
             int swipedID = 1;
             YesOrNo no = YesOrNo.n;
 
             // Act
-            string messageResult = matchService.FormatMessage(swiperID, swipedID, no);
+            string messageResult = MatchService.FormatMessage(swiperID, swipedID, no);
             string expectedResult = $"{swiperID}:{swipedID}:{no}";
 
             // Assert

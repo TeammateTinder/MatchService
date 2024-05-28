@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F491D0B-22DD-449A-947C-95AF1691EB2C}|TestProject2\\TestProject2.csproj|c:\\users\\kaan\\source\\repos\\teammate tinder\\matchservice\\testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F491D0B-22DD-449A-947C-95AF1691EB2C}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|c:\\users\\kaan\\source\\repos\\teammate tinder\\matchservice\\matchservice\\matchserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|solutionrelative:matchservice\\matchserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D9149D27-9915-4A0A-B9E6-64B1104B92B0}|MatchServiceAppTests\\MatchServiceAppTests.csproj|c:\\users\\kaan\\source\\repos\\teammate tinder\\matchservice\\matchserviceapptests\\matchservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9149D27-9915-4A0A-B9E6-64B1104B92B0}|MatchServiceAppTests\\MatchServiceAppTests.csproj|solutionrelative:matchserviceapptests\\matchservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\matchservice\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\matchservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|solutionrelative:matchservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\matchservice\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|solutionrelative:matchservice\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\matchservice\\controllers\\messagetestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,65 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\TestProject2\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "TestProject2\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\TestProject2\\UnitTest1.cs",
-              "RelativeToolTip": "TestProject2\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Title": "MatchServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\MatchServiceAppTests\\MatchServiceTests.cs",
+              "RelativeDocumentMoniker": "MatchServiceAppTests\\MatchServiceTests.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\MatchServiceAppTests\\MatchServiceTests.cs",
+              "RelativeToolTip": "MatchServiceAppTests\\MatchServiceTests.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T11:58:19.615Z",
+              "WhenOpened": "2024-05-28T12:02:50.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MatchServiceApp.csproj",
-              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\MatchService\\MatchServiceApp.csproj",
-              "RelativeDocumentMoniker": "MatchService\\MatchServiceApp.csproj",
-              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\MatchService\\MatchServiceApp.csproj",
-              "RelativeToolTip": "MatchService\\MatchServiceApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-21T12:31:35.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProfileModel.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\MatchService\\Models\\ProfileModel.cs",
-              "RelativeDocumentMoniker": "MatchService\\Models\\ProfileModel.cs",
-              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\MatchService\\Models\\ProfileModel.cs",
-              "RelativeToolTip": "MatchService\\Models\\ProfileModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T14:38:42.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MatchService.cs",
               "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\MatchService\\Services\\MatchService.cs",
               "RelativeDocumentMoniker": "MatchService\\Services\\MatchService.cs",
               "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\MatchService\\Services\\MatchService.cs",
               "RelativeToolTip": "MatchService\\Services\\MatchService.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAmwDYAAAA3AAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAmwEYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T14:35:54.574Z"
+              "WhenOpened": "2024-05-17T14:35:54.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\MatchService\\Program.cs",
               "RelativeDocumentMoniker": "MatchService\\Program.cs",
@@ -112,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "MatchServiceApp",
               "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\MatchService\\MatchServiceApp.csproj",
               "RelativeDocumentMoniker": "MatchService\\MatchServiceApp.csproj",
@@ -124,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MessageTestController.cs",
               "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\MatchService\\Controllers\\MessageTestController.cs",
               "RelativeDocumentMoniker": "MatchService\\Controllers\\MessageTestController.cs",
@@ -136,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "SwipingController.cs",
               "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\MatchService\\Controllers\\SwipingController.cs",
               "RelativeDocumentMoniker": "MatchService\\Controllers\\SwipingController.cs",

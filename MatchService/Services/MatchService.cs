@@ -64,7 +64,7 @@ namespace MatchServiceApp.Services
             }
         }
 
-        public string FormatMessage(int swiperID, int swipedID, YesOrNo YoN)
+        public static string FormatMessage(int swiperID, int swipedID, YesOrNo YoN)
         {
             string message = $"{swiperID}:{swipedID}:{YoN.ToString()}";
             return message;
