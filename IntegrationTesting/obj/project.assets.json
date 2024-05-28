@@ -6065,9 +6065,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\IntegrationTesting\\IntegrationTesting.csproj",
-      "projectName": "IntegrationTesting",
-      "projectPath": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\IntegrationTesting\\IntegrationTesting.csproj",
+      "projectUniqueName": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\IntegrationTesting\\MatchServiceApp.Tests.csproj",
+      "projectName": "MatchServiceApp.Tests",
+      "projectPath": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\IntegrationTesting\\MatchServiceApp.Tests.csproj",
       "packagesPath": "C:\\Users\\Kaan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\IntegrationTesting\\obj\\",
       "projectStyle": "PackageReference",

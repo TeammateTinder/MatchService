@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fWwLnpoNMHDht9rPpy8RPFuXqTNcDvyikBsq0X58io5sP3ByCnffDnIqWzmIH63Ayg3/kRn3DXAWAlRioSWUwg==",
+  "dgSpecHash": "LccX1RCPBvvL/mlrKrpBBAnbEG4QWIOGIOD0De5xyzyuOnFPc239kPi+x0Oywa2FE/bJmJ/RQ9bHjeFHvqDqpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\IntegrationTesting\\IntegrationTesting.csproj",
+  "projectFilePath": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\IntegrationTesting\\MatchServiceApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kaan\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Kaan\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
