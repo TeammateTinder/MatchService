@@ -54,8 +54,7 @@ namespace MatchServiceApp.Services
         {
             if (comType == CommunicationType.Messaging)
             {
-                string message = $"{swiperID}:{swipedID}:y";
-                byte[] body = Encoding.UTF8.GetBytes(message);
+                byte[] body = Encoding.UTF8.GetBytes(FormatMessage(swiperID, swipedID, YesOrNo.y));
                 _profileChannel.BasicPublish(exchange: "", routingKey: _profileChannelName, basicProperties: null, body: body);
                 Console.WriteLine($"Sent request to add ID: {swipedID} to SwipedNo array for user with ID: {swiperID}");
             }
