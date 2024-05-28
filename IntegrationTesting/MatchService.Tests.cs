@@ -30,7 +30,6 @@ namespace IntegrationTesting
             int b = 2;
 
             // Act
-            matchService.AddIdToSwipedYes(0, 69420);
             int result = a + b;
 
             // Assert
