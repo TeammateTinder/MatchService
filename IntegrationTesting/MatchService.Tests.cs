@@ -7,13 +7,13 @@ namespace IntegrationTesting
 {
     public class UnitTest1
     {
-        private readonly ITestOutputHelper _logger;
+        //private readonly ITestOutputHelper _logger;
 
-        public UnitTest1(ITestOutputHelper logger)
-        {
-            _logger = logger;
+        //public UnitTest1(ITestOutputHelper logger)
+        //{
+        //    _logger = logger;
 
-        }
+        //}
 
         [Fact]
         public void EasyTest()
