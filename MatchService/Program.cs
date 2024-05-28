@@ -5,8 +5,12 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddSingleton(provider =>
 {
-    //ConnectionFactory factory = new ConnectionFactory() { HostName = "localhost" };
-    ConnectionFactory factory = new ConnectionFactory() { HostName = Environment.GetEnvironmentVariable("RABBITMQ_HOST") };
+    string? HostName = Environment.GetEnvironmentVariable("RABBITMQ_HOST");
+    if (string.IsNullOrEmpty(HostName))
+    {
+        HostName = "localhost";
+    }
+    ConnectionFactory factory = new ConnectionFactory() { HostName = HostName };
     return factory.CreateConnection();
 });
 

@@ -15,6 +15,12 @@ namespace MatchServiceApp.Services
         HTTP,
     }
 
+    public enum YesOrNo
+    {
+        y, 
+        n,
+    }
+
     public class MatchService
     {
         private readonly HttpClient _httpClient;
@@ -30,14 +36,13 @@ namespace MatchServiceApp.Services
             _profileChannel.QueueDeclare(queue: _profileChannelName, exclusive: false, autoDelete: false);
         }
 
-        public void AddIdToSwipedNo(int swiperID, int id2, CommunicationType comType = CommunicationType.Messaging)
+        public void AddIdToSwipedNo(int swiperID, int swipedID, CommunicationType comType = CommunicationType.Messaging)
         {
             if (comType == CommunicationType.Messaging)
             {
-                string message = $"{swiperID}:{id2}:n";
-                byte[] body = Encoding.UTF8.GetBytes(message);
+                byte[] body = Encoding.UTF8.GetBytes(FormatMessage(swiperID, swipedID, YesOrNo.n));
                 _profileChannel.BasicPublish(exchange: "", routingKey: _profileChannelName, basicProperties: null, body: body);
-                Console.WriteLine($"Sent request to add ID: {id2} to SwipedNo array for user with ID: {swiperID}");
+                Console.WriteLine($"Sent request to add ID: {swipedID} to SwipedNo array for user with ID: {swiperID}");
             }
             else if (comType == CommunicationType.HTTP)
             {
@@ -45,19 +50,25 @@ namespace MatchServiceApp.Services
             }
         }
 
-        public void AddIdToSwipedYes(int swiperID, int id2, CommunicationType comType = CommunicationType.Messaging)
+        public void AddIdToSwipedYes(int swiperID, int swipedID, CommunicationType comType = CommunicationType.Messaging)
         {
             if (comType == CommunicationType.Messaging)
             {
-                string message = $"{swiperID}:{id2}:y";
+                string message = $"{swiperID}:{swipedID}:y";
                 byte[] body = Encoding.UTF8.GetBytes(message);
                 _profileChannel.BasicPublish(exchange: "", routingKey: _profileChannelName, basicProperties: null, body: body);
-                Console.WriteLine($"Sent request to add ID: {id2} to SwipedNo array for user with ID: {swiperID}");
+                Console.WriteLine($"Sent request to add ID: {swipedID} to SwipedNo array for user with ID: {swiperID}");
             }
             else if (comType == CommunicationType.HTTP)
             {
                 throw new NotImplementedException();
             }
+        }
+
+        public string FormatMessage(int swiperID, int swipedID, YesOrNo YoN)
+        {
+            string message = $"{swiperID}:{swipedID}:{YoN.ToString()}";
+            return message;
         }
     }
 }
