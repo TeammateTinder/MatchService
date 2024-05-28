@@ -26,3 +26,11 @@ jobs:
 
     - name: Test
       run: dotnet test --verbosity normal
+
+    - name: SonarCloud Analysis
+      if: ${{ github.event_name == 'push' }}  # Only run SonarCloud analysis on push events
+      uses: sonarsource/sonarcloud-github-action@v1
+      with:
+        organization: 'teammatetinder'  # Your SonarCloud organization key
+        token: ${{ secrets.SONAR_TOKEN }}
+        projectKey: 'TeammateTinder_MatchService'  # Your SonarCloud project key
