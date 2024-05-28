@@ -19,13 +19,13 @@ namespace IntegrationTesting
         public void EasyTest()
         {
             // Arrange
-            string? HostName = Environment.GetEnvironmentVariable("RABBITMQ_HOST");
-            if (string.IsNullOrEmpty(HostName))
-            {
-                HostName = "localhost";
-            }
-            ConnectionFactory factory = new ConnectionFactory() { HostName = HostName };
-            MatchService matchService = new MatchService(factory.CreateConnection());
+            //string? HostName = Environment.GetEnvironmentVariable("RABBITMQ_HOST");
+            //if (string.IsNullOrEmpty(HostName))
+            //{
+            //    HostName = "localhost";
+            //}
+            //ConnectionFactory factory = new ConnectionFactory() { HostName = HostName };
+            //MatchService matchService = new MatchService(factory.CreateConnection());
             int a = 1;
             int b = 2;
 
