@@ -16,6 +16,14 @@ namespace IntegrationTesting
         }
 
         [Fact]
+        public void EasyTest()
+        {
+            int a = 0;
+            int b = 1;
+            Assert.Equal(1, a+b);
+        }
+
+        [Fact]
         public void TestFormatMessageYes()
         {
             // Arrange
