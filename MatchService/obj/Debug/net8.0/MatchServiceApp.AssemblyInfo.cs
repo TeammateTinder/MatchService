@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatchServiceApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bbf1f7386fd4ec287612450982022248db833de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d91dc7bb2ca85016b53caf717602a44a869334d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatchServiceApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatchServiceApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
