@@ -1,0 +1,70 @@
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\bin\Debug\net8.0\appsettings.json
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\bin\Debug\net8.0\MatchServiceApp.exe
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\bin\Debug\net8.0\MatchServiceApp.deps.json
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\bin\Debug\net8.0\MatchServiceApp.runtimeconfig.json
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\bin\Debug\net8.0\MatchServiceApp.dll
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\bin\Debug\net8.0\MatchServiceApp.pdb
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.csproj.AssemblyReference.cache
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.AssemblyInfoInputs.cache
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.AssemblyInfo.cs
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.sourcelink.json
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\staticwebassets\msbuild.MatchServiceApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\staticwebassets\msbuild.build.MatchServiceApp.props
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MatchServiceApp.props
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MatchServiceApp.props
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\scopedcss\bundle\MatchServiceApp.styles.css
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchSer.1EDA1089.Up2Date
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.dll
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\refint\MatchServiceApp.dll
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.pdb
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.genruntimeconfig.cache
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\ref\MatchServiceApp.dll
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Debug\net8.0\appsettings.json
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Debug\net8.0\MatchServiceApp.exe
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Debug\net8.0\MatchServiceApp.deps.json
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Debug\net8.0\MatchServiceApp.runtimeconfig.json
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Debug\net8.0\MatchServiceApp.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Debug\net8.0\MatchServiceApp.pdb
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.csproj.AssemblyReference.cache
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.AssemblyInfoInputs.cache
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.AssemblyInfo.cs
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.sourcelink.json
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\staticwebassets\msbuild.MatchServiceApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\staticwebassets\msbuild.build.MatchServiceApp.props
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MatchServiceApp.props
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MatchServiceApp.props
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\scopedcss\bundle\MatchServiceApp.styles.css
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\MatchSer.1EDA1089.Up2Date
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\refint\MatchServiceApp.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.pdb
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\MatchServiceApp.genruntimeconfig.cache
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\obj\Debug\net8.0\ref\MatchServiceApp.dll

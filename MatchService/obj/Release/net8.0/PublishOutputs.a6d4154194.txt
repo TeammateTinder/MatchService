@@ -1,0 +1,13 @@
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Release\net8.0\publish\MatchServiceApp.exe
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Release\net8.0\publish\MatchServiceApp.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Release\net8.0\publish\MatchServiceApp.deps.json
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Release\net8.0\publish\MatchServiceApp.runtimeconfig.json
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Release\net8.0\publish\MatchServiceApp.pdb
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Release\net8.0\publish\RabbitMQ.Client.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\MatchService\MatchService\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

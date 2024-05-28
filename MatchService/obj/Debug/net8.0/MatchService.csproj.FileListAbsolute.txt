@@ -31,3 +31,4 @@ C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchSe
 C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchService.genruntimeconfig.cache
 C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\ref\MatchService.dll
 C:\Users\Kaan\source\repos\C#\MatchService\MatchService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Kaan\source\repos\C#\MatchService\MatchService\obj\Debug\net8.0\MatchService.sourcelink.json

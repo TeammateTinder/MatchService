@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F14k5IGpF17F/Q7tGzycexPsIc97ERFiUYBUw6IR6RQ=",
+  "Source": "MatchServiceApp",
+  "BasePath": "_content/MatchServiceApp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

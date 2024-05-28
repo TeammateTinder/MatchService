@@ -3,7 +3,7 @@ using RabbitMQ.Client;
 using System.Collections.Generic;
 using System.Text;
 
-namespace MatchService.Controllers
+namespace MatchServiceApp.Controllers
 {
     [ApiController]
     [Route("[controller]")]

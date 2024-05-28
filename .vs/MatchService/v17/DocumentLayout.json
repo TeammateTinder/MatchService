@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchService.csproj|c:\\users\\kaan\\source\\repos\\c#\\matchservice\\matchservice\\controllers\\messagetestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|c:\\users\\kaan\\source\\repos\\c#\\matchservice\\matchservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|solutionrelative:matchservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\matchservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|solutionrelative:matchservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|c:\\users\\kaan\\source\\repos\\c#\\matchservice\\matchservice\\matchservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|solutionrelative:matchservice\\matchservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|c:\\users\\kaan\\source\\repos\\c#\\matchservice\\matchservice\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|solutionrelative:matchservice\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchService.csproj|C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\matchservice\\controllers\\swipingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchService.csproj|solutionrelative:matchservice\\controllers\\swipingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\matchservice\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|solutionrelative:matchservice\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\matchservice\\controllers\\messagetestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|solutionrelative:matchservice\\controllers\\messagetestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchService.csproj|C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\matchservice\\controllers\\messagetestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchService.csproj|solutionrelative:matchservice\\controllers\\messagetestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\matchservice\\controllers\\swipingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D361AAB-4D7F-4606-91F0-3C37F51CE62C}|MatchService\\MatchServiceApp.csproj|solutionrelative:matchservice\\controllers\\swipingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +55,127 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\appsettings.json",
+              "RelativeDocumentMoniker": "MatchService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\appsettings.json",
+              "RelativeToolTip": "MatchService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T12:32:14.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatchService.http",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\MatchService.http",
+              "RelativeDocumentMoniker": "MatchService\\MatchService.http",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\MatchService.http",
+              "RelativeToolTip": "MatchService\\MatchService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-07T12:31:59.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-07T12:19:18.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\Program.cs",
+              "RelativeDocumentMoniker": "MatchService\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\Program.cs",
+              "RelativeToolTip": "MatchService\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:21:19.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SwipingController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\Controllers\\SwipingController.cs",
+              "RelativeDocumentMoniker": "MatchService\\Controllers\\SwipingController.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\Controllers\\SwipingController.cs",
+              "RelativeToolTip": "MatchService\\Controllers\\SwipingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:24:14.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\Models\\ProfileModel.cs",
+              "RelativeDocumentMoniker": "MatchService\\Models\\ProfileModel.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\Models\\ProfileModel.cs",
+              "RelativeToolTip": "MatchService\\Models\\ProfileModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:38:32.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MessageTestController.cs",
               "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\Controllers\\MessageTestController.cs",
               "RelativeDocumentMoniker": "MatchService\\Controllers\\MessageTestController.cs",
               "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\Controllers\\MessageTestController.cs",
               "RelativeToolTip": "MatchService\\Controllers\\MessageTestController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T07:09:39.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T07:09:39.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SwipingController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\Controllers\\SwipingController.cs",
+              "RelativeDocumentMoniker": "MatchService\\Controllers\\SwipingController.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\Controllers\\SwipingController.cs",
+              "RelativeToolTip": "MatchService\\Controllers\\SwipingController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:10:23.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageTestController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\Controllers\\MessageTestController.cs",
+              "RelativeDocumentMoniker": "MatchService\\Controllers\\MessageTestController.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\Controllers\\MessageTestController.cs",
+              "RelativeToolTip": "MatchService\\Controllers\\MessageTestController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:38:41.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MatchService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\Services\\MatchService.cs",
+              "RelativeDocumentMoniker": "MatchService\\Services\\MatchService.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\Services\\MatchService.cs",
+              "RelativeToolTip": "MatchService\\Services\\MatchService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:38:03.938Z"
             }
           ]
         }

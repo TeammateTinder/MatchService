@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jeD2YJaDQ3CkV8xQToUB7mGSWP5vft+5ykdDihxLvI+hYqtwEL8Fv1/W+LMDIRncUKTjVJBIZKV4G3Nzq6GNLQ==",
+  "dgSpecHash": "yv/gz+Y//pVFYylO9HWnzrCl6aL6SkmYVaGOI95LgTvaaAj/FNX/a/TDeA5PxKGmYQKzTRqCfde7IoKclhcunQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kaan\\source\\repos\\C#\\MatchService\\MatchService\\MatchService.csproj",
+  "projectFilePath": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\MatchService\\MatchService\\MatchServiceApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kaan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Kaan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Kaan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Kaan\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
     "C:\\Users\\Kaan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Kaan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
